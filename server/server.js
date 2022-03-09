@@ -28,7 +28,7 @@ const io = new Server(httpsServer, {
 
 // Main Socket operations.
 io.on("connection", (socket) => {
-  // ...
+
 });
 
 // Serve the request.
