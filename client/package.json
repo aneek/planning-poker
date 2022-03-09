@@ -1,0 +1,22 @@
+{
+  "name": "planning-poker",
+  "version": "1.0.0",
+  "description": "An open source planning poker app to use in the Agile projects.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aneek/planning-poker.git"
+  },
+  "keywords": [
+    "agile"
+  ],
+  "author": "Aneek Mukhopadhyay <dream.aneek@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aneek/planning-poker/issues"
+  },
+  "homepage": "https://github.com/aneek/planning-poker#readme"
+}
